@@ -1,5 +1,3 @@
-#3ds Max Project
-
 This project showcases a realistic 3D model of a table with two benches, created using 3ds Max, featuring detailed textures and a complementary rug to enhance the visual appeal. The scene includes:
 
   - **3D Table**: Designed with attention to detail, featuring realistic proportions and a polished finish. 
